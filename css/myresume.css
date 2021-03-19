@@ -25,14 +25,14 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: #acd6ff!important;
+	background-color: #00c9e3!important;
 	background-image: url(../assets/img/always-grey.png);
 }
 
 .text-primary {
-	color: #acd6ff!important;
+	color: #00c9e3!important;
 }
 
 a {
-	color: #ACD6FF;
+	color: #00c9e3;
 }
