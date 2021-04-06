@@ -38,13 +38,13 @@ a {
 }
 
 table {
-	width:80%;
+    width:80%;
 }
 
 tr:nth-child(even) {
-	background-color:#ddd;
+    background-color:#ddd;
 }
 
 td {
-	border:1pex solid #2a5d44;
+    border:1pex solid #2a5d44;
 }
