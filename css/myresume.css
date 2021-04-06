@@ -37,3 +37,14 @@ a {
 	color: #005675;
 }
 
+table {
+	width:80%;
+}
+
+tr:nth-child(even) {
+	background-color:#ddd;
+}
+
+td {
+	border:1pex solid #2a5d44;
+}
