@@ -39,6 +39,7 @@ a {
 
 table {
     width:80%;
+    border: 1px solid black;
 }
 
 tr:nth-child(even) {
